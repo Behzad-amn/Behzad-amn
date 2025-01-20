@@ -1,11 +1,11 @@
-# Hi there, I'm Behzad Aminian! 👋
+# Hi there, I'm Behzad Aminian! 👋 [[CV]](Behzad-amn.github.io/files/CV.pdf)
 
 Welcome to my GitHub profile! I'm a **Machine Learning** with a passion for being part of the AI revolution.
 
 ---
 
 ## 👨‍🎓 About Me
-I hold a **Master’s Degree in Applied Science and Engineering** from The University of British Columbia (UBC) and followed by **5+ years** of hands-on experience developing various **Generative and Predictive AI models** and deploying them in cloud environments. My projects include everything from **Generative RAG models** to **data pipelines** that help businesses leverage **data-driven decision-making**.
+I hold a **Master’s Degree in Applied Science and Engineering** from The University of British Columbia (UBC) and followed by **5+ years** of hands-on experience developing various **Generative and Predictive AI models** and deploying them in production or cloud environments. My projects include everything from **Generative RAG models** to **data pipelines** that help businesses leverage **data-driven decision-making**.
 
 ---
 
@@ -29,8 +29,8 @@ I hold a **Master’s Degree in Applied Science and Engineering** from The Unive
 ---
 
 ## 🔬 Personal Projects
-- **E2E Encryption for LLMs** – Enabling private, secure AI usage on confidential data.  
-- **Brain Assistant AI** – Augmenting human cognition by collecting, storing, and connecting dots more efficiently.
+- **E2E Encryption for LLMs** – So that people can use AI on confidential data.  
+- **Brain Assistant AI** – Augmenting human cognition with AI to improve collecting, storing, and connecting dots.
 - **BCI - Brain Computer Interaction** - I think cyborg will be our next evolution
 ---
 
@@ -43,7 +43,6 @@ When I'm not coding, you can find me:
 ---
 
 ## 📫 Get in Touch
-- **GitHub:** [github.com/BehzadAminian](https://github.com/BehzadAminian)  
 - **LinkedIn:** [linkedin.com/in/behzad-aminian](https://linkedin.com/in/behzad-aminian)  
 - **Email:** aminian.bz@gmail.com  
 
