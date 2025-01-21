@@ -45,7 +45,7 @@ When I’m off the clock, I enjoy:
 
 ## 📫 Get in Touch
 - **LinkedIn:** [linkedin.com/in/behzad-aminian](https://linkedin.com/in/behzad-aminian)
-- **Website:** [linkedin.com/in/behzad-aminian](https://behzad-amn.github.io)
+- **Website:** [https://behzad-amn.github.io](https://behzad-amn.github.io)
 - **Email:** aminian.bz@gmail.com  
 
 Feel free to reach out if you’d like to collaborate or just say hello! 😊
