@@ -1,4 +1,4 @@
-# Hi there, I’m Behzad Aminian! 👋 [CV](Behzad-amn.github.io/files/CV.pdf)
+# Hi there, I’m Behzad Aminian! 👋 [CV](behzad-amn.github.io/files/CV.pdf) - [Website](https://behzad-amn.github.io/)
 
 Thanks for stopping by my GitHub! I’m a **Machine Learning** engineer who’s excited about being part of the AI revolution. Let me show you around.
 
